@@ -1,0 +1,203 @@
+[
+  {
+    "name": "AIRCON Expo 2026",
+    "startDate": "2026-12-21",
+    "endDate": "2026-12-23",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 12, 12A",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "HVAC & refrigeration"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Consumer World Electronics Expo 2027",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-23",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 12A",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Electronics & semiconductors",
+      "Toys & consumer goods"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Lighting World & Hometech Expo 2027",
+    "startDate": "2027-02-15",
+    "endDate": "2027-02-17",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 14GF",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Lubricant India Expo (LUBEiNX) 2027",
+    "startDate": "2027-03-16",
+    "endDate": "2027-03-18",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 12",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Chemicals & coatings",
+      "Automotive & auto components"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Ride Asia 2027",
+    "startDate": "2027-04-23",
+    "endDate": "2027-04-25",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 4GF, 5GF",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Automotive & auto components",
+      "Electric vehicles"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Autotech Asia 2027",
+    "startDate": "2027-05-21",
+    "endDate": "2027-05-23",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 3GF",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Automotive & auto components"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "PlastiWorld 2027 (Global Conclave on Plastic Recycling & Sustainability)",
+    "startDate": "2027-06-24",
+    "endDate": "2027-06-27",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 5GF, 6",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Plastics & rubber"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Tube & Pipe Fair and Bharat Metal Expo 2027",
+    "startDate": "2027-08-11",
+    "endDate": "2027-08-13",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 4GF, 5GF",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Steel, metals & mining"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "iPHEX 2027",
+    "startDate": "2027-08-19",
+    "endDate": "2027-08-21",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Halls 1\u20136, 14GF",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Medicall New Delhi 2027",
+    "startDate": "2027-09-17",
+    "endDate": "2027-09-19",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 6",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  },
+  {
+    "name": "Delhi Water Expo 2027",
+    "startDate": "2027-09-23",
+    "endDate": "2027-09-25",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam, Hall 12A",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates and halls on the Bharat Mandapam (ITPO) venue calendar, checked 29 Sep 2026."
+  }
+]

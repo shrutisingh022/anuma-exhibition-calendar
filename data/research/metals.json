@@ -1,0 +1,736 @@
+[
+  {
+    "name": "IMTEX 2027 (with Tooltech & Digital Manufacturing 2027)",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-27",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "BIEC",
+    "organiser": "IMTMA",
+    "sectors": [
+      "Machine tools & metalworking"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.imtex.in/",
+    "sourceUrl": "https://www.biec.in/events",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on BIEC venue calendar; organiser site blocks automated access."
+  },
+  {
+    "name": "DMTX 2027 (Delhi Machine Tool Expo) with FACTEQ 2027",
+    "startDate": "2027-08-05",
+    "endDate": "2027-08-08",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "IMTMA",
+    "sectors": [
+      "Machine tools & metalworking",
+      "General engineering"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.mtx.co.in/",
+    "sourceUrl": "https://www.mtx.co.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on IMTMA MTX site; 6th edition."
+  },
+  {
+    "name": "ACMEE 2027",
+    "startDate": "2027-05-27",
+    "endDate": "2027-05-31",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "AIEMA",
+    "sectors": [
+      "Machine tools & metalworking",
+      "Automotive & auto components"
+    ],
+    "frequency": "other",
+    "website": "https://www.acmee.in/",
+    "sourceUrl": "https://www.acmee.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "IFEX 2027 (with 75th Indian Foundry Congress)",
+    "startDate": "2027-02-08",
+    "endDate": "2027-02-10",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Institute of Indian Foundrymen",
+    "sectors": [
+      "Foundry & casting"
+    ],
+    "frequency": "annual",
+    "website": "https://ifexindia.com/",
+    "sourceUrl": "https://ifexindia.com/",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; exhibitor count is 2026 edition."
+  },
+  {
+    "name": "Engimach 2027",
+    "startDate": "2027-12-01",
+    "endDate": "2027-12-05",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "venue": "Helipad Exhibition Centre",
+    "organiser": "K and D Communication Ltd",
+    "sectors": [
+      "Machine tools & metalworking",
+      "General engineering",
+      "Industrial automation"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.kdclglobal.com/",
+    "sourceUrl": "https://www.kdclglobal.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 18th edition."
+  },
+  {
+    "name": "wire India 2026",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-02",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Steel, metals & mining",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.wire-india.com/",
+    "sourceUrl": "https://www.wire-india.com/",
+    "status": "confirmed",
+    "exhibitors": 300,
+    "notes": "Dates on organiser site; exhibitor count is 2024 edition."
+  },
+  {
+    "name": "Tube India 2026",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-02",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Steel, metals & mining",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.tube-india.com/",
+    "sourceUrl": "https://www.tube-india.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; co-located with wire India and METEC India."
+  },
+  {
+    "name": "METEC India 2026",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-02",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Steel, metals & mining",
+      "Foundry & casting"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.metec-india.com/",
+    "sourceUrl": "https://www.german-pavilion.com/en/wire-tube-metec-india-2026",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on official German Pavilion page for the co-located fairs."
+  },
+  {
+    "name": "India Essen Welding & Cutting 2026",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-02",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Welding & fabrication"
+    ],
+    "frequency": "biennial",
+    "website": "https://iewc.in/",
+    "sourceUrl": "https://www.tradeindia.com/tradeshows/124059/india-essen-welding-cutting-mumbai-2026.html",
+    "status": "listed",
+    "exhibitors": 532,
+    "notes": "Organiser site confirms 2026 edition but not dates; exhibitor count is 2024."
+  },
+  {
+    "name": "Fastener Fair India 2027",
+    "startDate": "2027-04-22",
+    "endDate": "2027-04-24",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "RX India",
+    "sectors": [
+      "Machine tools & metalworking",
+      "General engineering"
+    ],
+    "frequency": "annual",
+    "website": "https://www.fastenerfairindia.com/",
+    "sourceUrl": "https://www.fastenerfairindia.com/",
+    "status": "confirmed",
+    "exhibitors": 200,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "BLECH India 2027",
+    "startDate": "2027-04-22",
+    "endDate": "2027-04-24",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "RX India",
+    "sectors": [
+      "Machine tools & metalworking",
+      "Welding & fabrication"
+    ],
+    "frequency": "other",
+    "website": "https://www.blechindia.com/",
+    "sourceUrl": "https://www.blechindia.com/",
+    "status": "confirmed",
+    "exhibitors": 250,
+    "notes": "Dates on organiser site; 9th edition."
+  },
+  {
+    "name": "Global Stainless Steel Expo 2027",
+    "startDate": "2027-06-04",
+    "endDate": "2027-06-06",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Venue not yet stated",
+    "organiser": "Virgo Communications & Exhibitions with ISSDA",
+    "sectors": [
+      "Steel, metals & mining"
+    ],
+    "frequency": "biennial",
+    "website": "https://gssexpo.com/",
+    "sourceUrl": "https://gssexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates in organiser site title; 2027 venue not yet stated (2025 was Bombay Exhibition Centre)."
+  },
+  {
+    "name": "IMME 2026 (International Mining & Machinery Exhibition)",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-10",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "venue": "Eco Park, New Town",
+    "organiser": "CII",
+    "sectors": [
+      "Steel, metals & mining"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.immeindia.in/",
+    "sourceUrl": "https://www.immeindia.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; some directories list 18-21 Nov."
+  },
+  {
+    "name": "MachAuto Expo 2027",
+    "startDate": "2027-02-19",
+    "endDate": "2027-02-22",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "venue": "Ludhiana Exhibition & Convention Centre, Sahnewal",
+    "organiser": "Udan Media & Communications",
+    "sectors": [
+      "Machine tools & metalworking",
+      "Industrial automation"
+    ],
+    "frequency": "annual",
+    "website": "https://machautoexpo.in/",
+    "sourceUrl": "https://machautoexpo.in/",
+    "status": "confirmed",
+    "exhibitors": 615,
+    "notes": "Dates on organiser site; exhibitor count is 2026 edition."
+  },
+  {
+    "name": "10th Rajkot Machine Tools Show 2026",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-28",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "venue": "NSIC Ground, Aji GIDC",
+    "organiser": "K and D Communication Ltd with MTMA Rajkot",
+    "sectors": [
+      "Machine tools & metalworking"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.kdclglobal.com/kdcl-event/10th-rajkot-machine-tools-show/",
+    "sourceUrl": "https://www.kdclglobal.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "4th Castings & Foundries Expo 2026",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-27",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "venue": "NSIC Ground, Aji GIDC",
+    "organiser": "K and D Communication Ltd",
+    "sectors": [
+      "Foundry & casting"
+    ],
+    "frequency": "other",
+    "website": "https://www.kdclglobal.com/",
+    "sourceUrl": "https://www.kdclglobal.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; co-located with Rajkot Machine Tools Show."
+  },
+  {
+    "name": "17th Weldindia 2027",
+    "startDate": "2027-02-11",
+    "endDate": "2027-02-13",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "venue": "Parsi Agyari Ground, Sayajigunj",
+    "organiser": "K and D Communication Ltd",
+    "sectors": [
+      "Welding & fabrication"
+    ],
+    "frequency": "other",
+    "website": "https://www.kdclglobal.com/",
+    "sourceUrl": "https://www.kdclglobal.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "11th India Machine Tools Show (IMTOS) 2027",
+    "startDate": "2027-05-14",
+    "endDate": "2027-05-17",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "K and D Communication Ltd",
+    "sectors": [
+      "Machine tools & metalworking"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.kdclglobal.com/kdcl-event/india-machine-tools-show/",
+    "sourceUrl": "https://www.kdclglobal.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Automation & Manufacturing Technology Show 2027",
+    "startDate": "2027-05-14",
+    "endDate": "2027-05-17",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "K and D Communication Ltd",
+    "sectors": [
+      "Industrial automation",
+      "General engineering"
+    ],
+    "frequency": "other",
+    "website": "https://www.kdclglobal.com/",
+    "sourceUrl": "https://www.kdclglobal.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; co-located with IMTOS."
+  },
+  {
+    "name": "EngiExpo Pune 2026",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-23",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "PIECC, Moshi",
+    "organiser": "EngiExpo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://engiexpo.com/",
+    "sourceUrl": "https://engiexpo.com/Exhibition_Overview",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; 19th edition."
+  },
+  {
+    "name": "EngiExpo Ahmedabad 2026",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-21",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "venue": "GMDC Ground",
+    "organiser": "EngiExpo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://engiexpo.com/",
+    "sourceUrl": "https://engiexpo.com/Exhibition_Overview",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; 20th edition."
+  },
+  {
+    "name": "EngiExpo Surat 2027",
+    "startDate": "2027-02-06",
+    "endDate": "2027-02-08",
+    "city": "Surat",
+    "state": "Gujarat",
+    "venue": "Vanita Vishram Ground",
+    "organiser": "EngiExpo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://engiexpo.com/",
+    "sourceUrl": "https://engiexpo.com/Exhibition_Overview",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; 21st edition."
+  },
+  {
+    "name": "EngiExpo Jaipur 2027",
+    "startDate": "2027-08-28",
+    "endDate": "2027-08-30",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "venue": "JECC, Sitapura",
+    "organiser": "EngiExpo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://engiexpo.com/",
+    "sourceUrl": "https://engiexpo.com/Exhibition_Overview",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; 22nd edition."
+  },
+  {
+    "name": "EngiExpo Rajkot 2027",
+    "startDate": "2027-11-21",
+    "endDate": "2027-11-24",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "venue": "NSIC Ground, Aji Industrial Estate",
+    "organiser": "EngiExpo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://engiexpo.com/",
+    "sourceUrl": "https://engiexpo.com/Exhibition_Overview",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; 23rd edition."
+  },
+  {
+    "name": "IndTec Expo Bangalore 2026",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-11",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Venue not stated",
+    "organiser": "IndTec Expo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking",
+      "Industrial automation"
+    ],
+    "frequency": "other",
+    "website": "https://www.indtecexpo.com/",
+    "sourceUrl": "https://www.indtecexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; venue not stated."
+  },
+  {
+    "name": "IndTec Expo Hosur 2026",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-31",
+    "city": "Hosur",
+    "state": "Tamil Nadu",
+    "venue": "Hills Exhibition Center",
+    "organiser": "IndTec Expo",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking",
+      "Industrial automation"
+    ],
+    "frequency": "other",
+    "website": "https://www.indtecexpo.com/",
+    "sourceUrl": "https://www.indtecexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "INDUS-tech Expo Faridabad 2026",
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-14",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "venue": "Sector-12 Ground",
+    "organiser": "Dronacharya Events",
+    "sectors": [
+      "Machine tools & metalworking",
+      "Industrial automation",
+      "General engineering"
+    ],
+    "frequency": "annual",
+    "website": "https://industechexpo.com/",
+    "sourceUrl": "https://industechexpo.com/",
+    "status": "confirmed",
+    "exhibitors": 850,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "INDUS-tech Expo Bhiwadi 2027",
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-07",
+    "city": "Bhiwadi",
+    "state": "Rajasthan",
+    "venue": "Aravali Vihar Ground",
+    "organiser": "Dronacharya Events",
+    "sectors": [
+      "Machine tools & metalworking",
+      "Industrial automation",
+      "General engineering"
+    ],
+    "frequency": "other",
+    "website": "https://industechexpo.com/",
+    "sourceUrl": "https://industechexpo.com/bhiwadi-industrial-exhibition-2027/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "INDUS-tech Expo Kolkata 2027",
+    "startDate": "2027-04-30",
+    "endDate": "2027-05-03",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "venue": "Biswa Bangla Convention Centre, New Town",
+    "organiser": "Dronacharya Events",
+    "sectors": [
+      "Machine tools & metalworking",
+      "Industrial automation",
+      "General engineering"
+    ],
+    "frequency": "other",
+    "website": "https://industechexpo.com/",
+    "sourceUrl": "https://industechexpo.com/kolkata-exhibition/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Globe-Tech Engineering Expo Pune 2027",
+    "startDate": "2027-09-23",
+    "endDate": "2027-09-26",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "PIECC, Moshi",
+    "organiser": "Globe-Tech Media Solutions",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://www.enggexpo.in/",
+    "sourceUrl": "https://www.enggexpo.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "ALUCAST 2026",
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-12",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Aluminium Casters' Association (ALUCAST)",
+    "sectors": [
+      "Foundry & casting"
+    ],
+    "frequency": "biennial",
+    "website": "https://alucastexpo.com/",
+    "sourceUrl": "https://alucastexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Indexpo Hyderabad 2027 (Industrial & Engineering Expo)",
+    "startDate": "2027-09-17",
+    "endDate": "2027-09-19",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Indore Infoline",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "other",
+    "website": "https://indexpo.co.in/",
+    "sourceUrl": "https://indexpo.co.in/hyderabad-expo-2026/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 61st edition."
+  },
+  {
+    "name": "Indexpo Mumbai 2027 (Industrial & Engineering Expo)",
+    "startDate": "2027-06-03",
+    "endDate": "2027-06-05",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "venue": "CIDCO Exhibition Centre, Vashi",
+    "organiser": "Indore Infoline",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "annual",
+    "website": "https://indexpo.co.in/",
+    "sourceUrl": "https://indexpo.co.in/mumbai-expo/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "National Expo (Steel & Power) Raipur 2026",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-30",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "venue": "Venue not stated",
+    "organiser": "Indore Infoline",
+    "sectors": [
+      "Steel, metals & mining",
+      "Electrical & power"
+    ],
+    "frequency": "annual",
+    "website": "https://indexpo.co.in/",
+    "sourceUrl": "https://indexpo.co.in/raipur-expo-2026/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; some directories show 18-21 Dec, organiser page used."
+  },
+  {
+    "name": "SUBCON 2027",
+    "startDate": "2027-05-12",
+    "endDate": "2027-05-14",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "venue": "CODISSIA Trade Fair Complex",
+    "organiser": "CODISSIA",
+    "sectors": [
+      "General engineering"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.subcon.codissia.com/",
+    "sourceUrl": "https://www.subcon.codissia.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; subcontracting fair."
+  },
+  {
+    "name": "India Welding Technology Show 2027",
+    "startDate": "2027-04-16",
+    "endDate": "2027-04-18",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "PIECC, Moshi",
+    "organiser": "Future Market Events",
+    "sectors": [
+      "Welding & fabrication"
+    ],
+    "frequency": "annual",
+    "website": "https://indiaweldingtechnologyshow.com/",
+    "sourceUrl": "https://indiaweldingtechnologyshow.com/",
+    "status": "confirmed",
+    "exhibitors": 175,
+    "notes": "Dates on organiser site; part of India Production Technology Week."
+  },
+  {
+    "name": "Metal Forming Expo 2027",
+    "startDate": "2027-04-16",
+    "endDate": "2027-04-18",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "PIECC, Moshi",
+    "organiser": "Future Market Events",
+    "sectors": [
+      "Machine tools & metalworking"
+    ],
+    "frequency": "annual",
+    "website": "https://metalformingexpo.com/",
+    "sourceUrl": "https://metalformingexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; co-located with India Welding Technology Show."
+  },
+  {
+    "name": "Industrial Engineering Xpo Indore 2027",
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-08",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "venue": "Labhganga Exhibition Centre",
+    "organiser": "Future Communications Events & Exhibition",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "annual",
+    "website": "https://tradeshows.tradeindia.com/eng-expo-indore/",
+    "sourceUrl": "https://tradeshows.tradeindia.com/eng-expo-indore/",
+    "status": "listed",
+    "exhibitors": null,
+    "notes": "Dates on TradeIndia-hosted event page only."
+  },
+  {
+    "name": "Industrial Engineering Xpo Raipur 2026",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-05",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "venue": "Shriram Business Park, Vidhan Sabha Road",
+    "organiser": "Future Communications Events & Exhibition",
+    "sectors": [
+      "General engineering",
+      "Machine tools & metalworking"
+    ],
+    "frequency": "annual",
+    "website": "https://tradeshows.tradeindia.com/eng-expo-raipur/",
+    "sourceUrl": "https://tradeshows.tradeindia.com/eng-expo-raipur/",
+    "status": "listed",
+    "exhibitors": null,
+    "notes": "Dates on TradeIndia-hosted event page only."
+  }
+]

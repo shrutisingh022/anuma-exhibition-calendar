@@ -1,0 +1,1092 @@
+[
+  {
+    "name": "AgriCon India & HortiConnect India 2026",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-03",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "Messe Muenchen India",
+    "sectors": [
+      "Agri machinery"
+    ],
+    "frequency": "annual",
+    "website": "https://www.mm-india.in/",
+    "sourceUrl": "https://www.biec.in/events",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on BIEC venue calendar."
+  },
+  {
+    "name": "Meet at Agra 2026",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-05",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "venue": "Agra Trade Centre",
+    "organiser": "Agra Footwear Manufacturers and Exporters Chamber (AFMEC)",
+    "sectors": [
+      "Leather & footwear"
+    ],
+    "frequency": "annual",
+    "website": "https://meetatagra.com/",
+    "sourceUrl": "https://meetatagra.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "India Carpet Expo 2026",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-07",
+    "city": "Bhadohi",
+    "state": "Uttar Pradesh",
+    "venue": "Carpet Expo Mart",
+    "organiser": "Carpet Export Promotion Council (CEPC)",
+    "sectors": [
+      "Textiles & apparel",
+      "Toys & consumer goods"
+    ],
+    "frequency": "other",
+    "website": "https://www.cepc.co.in/",
+    "sourceUrl": "https://www.cepc.co.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on CEPC site; handmade carpet export fair."
+  },
+  {
+    "name": "WAREMAT Expo 2026",
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-10",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Midaas Touch Events and Trade Fairs",
+    "sectors": [
+      "Logistics & material handling"
+    ],
+    "frequency": "annual",
+    "website": "https://hitex.co.in/events/waremat-expo-2026/index.html",
+    "sourceUrl": "https://hitex.co.in/events/upcoming.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on HITEX venue calendar."
+  },
+  {
+    "name": "Acetech Bengaluru 2026",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-11",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "Asian Business Exhibitions & Conferences Ltd (ABEC)",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://www.abec.asia/",
+    "sourceUrl": "https://www.abec.asia/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site and BIEC calendar."
+  },
+  {
+    "name": "IHGF Delhi Fair Autumn 2026",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-17",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Export Promotion Council for Handicrafts (EPCH)",
+    "sectors": [
+      "Toys & consumer goods",
+      "Furniture & wood",
+      "Textiles & apparel"
+    ],
+    "frequency": "other",
+    "website": "https://www.ihgfdelhifair.in/",
+    "sourceUrl": "https://www.ihgfdelhifair.in/",
+    "status": "confirmed",
+    "exhibitors": 3000,
+    "notes": "Dates on organiser site; 62nd edition, held twice a year."
+  },
+  {
+    "name": "World Food India Regional (North) 2026",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-23",
+    "city": "Panchkula",
+    "state": "Haryana",
+    "venue": "Parade Ground, Sector 5",
+    "organiser": "Ministry of Food Processing Industries (with FICCI)",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "other",
+    "website": "https://www.mofpi.gov.in/",
+    "sourceUrl": "https://www.mofpi.gov.in/sites/default/files/circular_dated_11.05.2026-dates_venue_of_regional_events.pdf",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates in MoFPI circular of 11 May 2026; regional edition."
+  },
+  {
+    "name": "International Hardware Fair India 2026",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar; organiser not named there."
+  },
+  {
+    "name": "GFLOOR 2026 (Global Flooring Solutions Expo)",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "HITEX",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://gfloorexpo.in",
+    "sourceUrl": "https://hitex.co.in/events/upcoming.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site and HITEX calendar; 2nd edition."
+  },
+  {
+    "name": "CMPL Expo North India 2026",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-24",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "CMPL Series",
+    "sectors": [
+      "Toys & consumer goods",
+      "Food processing & dairy"
+    ],
+    "frequency": "other",
+    "website": "https://www.iiccnewdelhi.com/event-list",
+    "sourceUrl": "https://www.iiccnewdelhi.com/event-list",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Yashobhoomi venue event list; contract manufacturing and private label show."
+  },
+  {
+    "name": "Hindustan International Furniture Fair (HIFF) 2026",
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-26",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "HIFF Trades & Events",
+    "sectors": [
+      "Furniture & wood"
+    ],
+    "frequency": "annual",
+    "website": "https://www.biec.in/events",
+    "sourceUrl": "https://www.biec.in/events",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on BIEC venue calendar."
+  },
+  {
+    "name": "InnoQualTex SourceXhibition 2026",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-31",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "InnoQualTex",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "annual",
+    "website": "https://www.iiccnewdelhi.com/event-list",
+    "sourceUrl": "https://www.iiccnewdelhi.com/event-list",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Yashobhoomi venue event list; textile sourcing exhibition."
+  },
+  {
+    "name": "Poultry India 2026",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-27",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Indian Poultry Equipment Manufacturers Association (IPEMA)",
+    "sectors": [
+      "Agri machinery",
+      "Food processing & dairy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.poultryindia.co.in/",
+    "sourceUrl": "https://www.poultryindia.co.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 18th edition."
+  },
+  {
+    "name": "Indusfood Regional (South) 2026",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-27",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "Trade Promotion Council of India (TPCI)",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "other",
+    "website": "https://www.indusfood.co.in/",
+    "sourceUrl": "https://www.biec.in/events",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on BIEC venue calendar."
+  },
+  {
+    "name": "India ITME 2026",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-09",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "India ITME Society",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.india-itme.com/",
+    "sourceUrl": "https://indiaexpomart.com/events/india-itme-2026/",
+    "status": "confirmed",
+    "exhibitors": 1800,
+    "notes": "Dates on India Expo Mart venue page; exhibitor figure is the expected count."
+  },
+  {
+    "name": "Kisan Agri Show 2026",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-13",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "PIECC, Moshi",
+    "organiser": "KISAN",
+    "sectors": [
+      "Agri machinery"
+    ],
+    "frequency": "annual",
+    "website": "https://2026.kisan.in/",
+    "sourceUrl": "https://2026.kisan.in/",
+    "status": "confirmed",
+    "exhibitors": 600,
+    "notes": "Dates on organiser site; 34th edition, expected exhibitor count."
+  },
+  {
+    "name": "Textile Fairs India (TFI) 2026",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-11",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "3IJS India International Imitation Jewellery Show 2026",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-14",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "16th Cement Expo 2026",
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-17",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "ASAPP Info Global Group",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://cementexpo.in/expo",
+    "sourceUrl": "https://indiaexpomart.com/events/16th-cement-expo-2026/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on India Expo Mart venue page."
+  },
+  {
+    "name": "Acetech Delhi 2026",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-20",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Asian Business Exhibitions & Conferences Ltd (ABEC)",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://www.abec.asia/",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "ChennaiWood 2026",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "NürnbergMesse India",
+    "sectors": [
+      "Furniture & wood"
+    ],
+    "frequency": "other",
+    "website": "https://www.nm-india.com/events-calendar",
+    "sourceUrl": "https://www.nm-india.com/events-calendar",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser events calendar."
+  },
+  {
+    "name": "Indusfood Manufacturing 2027",
+    "startDate": "2027-01-06",
+    "endDate": "2027-01-08",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Trade Promotion Council of India (TPCI)",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "annual",
+    "website": "https://indusfoodmanufacturing.co.in/",
+    "sourceUrl": "https://indusfoodmanufacturing.co.in/",
+    "status": "confirmed",
+    "exhibitors": 300,
+    "notes": "Dates on organiser site; food processing and packaging machinery."
+  },
+  {
+    "name": "IIJS Bharat Signature 2027",
+    "startDate": "2027-01-07",
+    "endDate": "2027-01-11",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Jio World Convention Centre and Bombay Exhibition Centre",
+    "organiser": "Gem & Jewellery Export Promotion Council (GJEPC)",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "annual",
+    "website": "https://gjepc.org/iijs-signature/",
+    "sourceUrl": "https://gjepc.org/iijs-signature/show-dates-from-2026-2030.php",
+    "status": "confirmed",
+    "exhibitors": 1600,
+    "notes": "Dates on GJEPC site: JWCC 7-10 Jan, BEC 8-11 Jan, with IGJME machinery show."
+  },
+  {
+    "name": "Indusfood 2027",
+    "startDate": "2027-01-08",
+    "endDate": "2027-01-10",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Trade Promotion Council of India (TPCI)",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indusfood.co.in/",
+    "sourceUrl": "https://www.indusfood.co.in/",
+    "status": "confirmed",
+    "exhibitors": 2200,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Footwear India Expo (January) 2027",
+    "startDate": "2027-01-29",
+    "endDate": "2027-01-31",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Leather & footwear"
+    ],
+    "frequency": "other",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "IILF 2027 (India International Leather Fair)",
+    "startDate": "2027-02-01",
+    "endDate": "2027-02-03",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "India Trade Promotion Organisation (ITPO)",
+    "sectors": [
+      "Leather & footwear"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/",
+    "sourceUrl": "https://www.german-pavilion.com/en/iilf-india-international-leather-fair",
+    "status": "listed",
+    "exhibitors": null,
+    "notes": "Dates from German Pavilion page; not yet on ITPO site, venue assumed from past editions."
+  },
+  {
+    "name": "INDEXPLUS Bengaluru 2027",
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-07",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "NürnbergMesse India",
+    "sectors": [
+      "Furniture & wood"
+    ],
+    "frequency": "other",
+    "website": "https://www.nm-india.com/events-calendar",
+    "sourceUrl": "https://www.nm-india.com/events-calendar",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser events calendar; furniture and interiors fair."
+  },
+  {
+    "name": "LogiMAT India 2027",
+    "startDate": "2027-02-08",
+    "endDate": "2027-02-10",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO), Goregaon",
+    "organiser": "Messe Stuttgart India",
+    "sectors": [
+      "Logistics & material handling"
+    ],
+    "frequency": "annual",
+    "website": "https://www.logimat.in/",
+    "sourceUrl": "https://www.logimat.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; co-located with IIHTE and FASTNEX."
+  },
+  {
+    "name": "IIHTE 2027 (India International Hardware & Tools Expo)",
+    "startDate": "2027-02-08",
+    "endDate": "2027-02-10",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO), Goregaon",
+    "organiser": "Messe Stuttgart India",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "other",
+    "website": "https://www.iihte.com/",
+    "sourceUrl": "https://www.iihte.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "World Food India Regional (East & NE) 2027",
+    "startDate": "2027-02-18",
+    "endDate": "2027-02-19",
+    "city": "Patna",
+    "state": "Bihar",
+    "venue": "Gyan Bhawan & Gandhi Maidan",
+    "organiser": "Ministry of Food Processing Industries (with FICCI)",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "other",
+    "website": "https://www.mofpi.gov.in/",
+    "sourceUrl": "https://www.mofpi.gov.in/sites/default/files/circular_dated_11.05.2026-dates_venue_of_regional_events.pdf",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates in MoFPI circular of 11 May 2026; regional edition."
+  },
+  {
+    "name": "Delhi Jewellery & Gem Fair (DJGF) Signature 2027",
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-22",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "other",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "Gifts World Expo Mumbai 2027",
+    "startDate": "2027-02-25",
+    "endDate": "2027-02-27",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO), Goregaon",
+    "organiser": "MEX Exhibitions Pvt Ltd",
+    "sectors": [
+      "Toys & consumer goods"
+    ],
+    "frequency": "annual",
+    "website": "https://giftsworldexpo.com/mum/",
+    "sourceUrl": "https://giftsworldexpo.com/mum/",
+    "status": "confirmed",
+    "exhibitors": 475,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "AAHAR 2027",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-06",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "India Trade Promotion Organisation (ITPO)",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event-detail/41st-edition-of-aahar-the-international-food-and-hospitality-fair-2027",
+    "sourceUrl": "https://www.exhibitionshowcase.com/itpo-announced-dates-for-next-edition-of-aahar-as-40th-edition-concluded-successfully/",
+    "status": "listed",
+    "exhibitors": null,
+    "notes": "Show dates from trade press; ITPO page shows venue booking 25 Feb to 7 Mar 2027 without show days."
+  },
+  {
+    "name": "INDIAWOOD 2027",
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-06",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "NürnbergMesse India",
+    "sectors": [
+      "Furniture & wood"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiawood.com/",
+    "sourceUrl": "https://www.indiawood.com/",
+    "status": "confirmed",
+    "exhibitors": 600,
+    "notes": "Dates on organiser site; co-located with India Mattresstech & Upholstery Supplies Expo."
+  },
+  {
+    "name": "IHGF Delhi Fair Spring 2027",
+    "startDate": "2027-03-15",
+    "endDate": "2027-03-19",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Export Promotion Council for Handicrafts (EPCH)",
+    "sectors": [
+      "Toys & consumer goods",
+      "Furniture & wood",
+      "Textiles & apparel"
+    ],
+    "frequency": "other",
+    "website": "https://www.ihgfdelhifair.in/",
+    "sourceUrl": "https://epch.in/ihgf-delhi-fair-spring-autumn-edition-dates-year-2027-2030",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on EPCH site; venue not stated there, assumed as usual."
+  },
+  {
+    "name": "Bharat Footwear & Leather Expo (BFLEX) 2027",
+    "startDate": "2027-03-15",
+    "endDate": "2027-03-16",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Leather & footwear"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "Garment Technology Expo Delhi NCR 2027",
+    "startDate": "2027-03-26",
+    "endDate": "2027-03-29",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Garment Technology Expo",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "other",
+    "website": "https://www.garmenttechnologyexpo.com/",
+    "sourceUrl": "https://www.garmenttechnologyexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 41st edition."
+  },
+  {
+    "name": "Gifts World Expo Kolkata 2027",
+    "startDate": "2027-04-02",
+    "endDate": "2027-04-04",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "venue": "Biswa Bangla Mela Prangan (Milan Mela)",
+    "organiser": "MEX Exhibitions Pvt Ltd",
+    "sectors": [
+      "Toys & consumer goods"
+    ],
+    "frequency": "annual",
+    "website": "https://www.giftsworldexpo.com/kol/",
+    "sourceUrl": "https://www.giftsworldexpo.com/kol/",
+    "status": "confirmed",
+    "exhibitors": 125,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "IIJS Bharat Tritiya 2027",
+    "startDate": "2027-04-03",
+    "endDate": "2027-04-05",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "Gem & Jewellery Export Promotion Council (GJEPC)",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "annual",
+    "website": "https://gjepc.org/",
+    "sourceUrl": "https://gjepc.org/iijs-signature/show-dates-from-2026-2030.php",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on GJEPC site."
+  },
+  {
+    "name": "Rajdhani Jewellery Expo 2027",
+    "startDate": "2027-04-24",
+    "endDate": "2027-04-26",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "Anuga FoodTec India Dairy 2027",
+    "startDate": "2027-04-28",
+    "endDate": "2027-04-30",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Koelnmesse India",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "other",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "Gartex Texprocess India Mumbai 2027",
+    "startDate": "2027-05-06",
+    "endDate": "2027-05-08",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO), Goregaon",
+    "organiser": "Messe Frankfurt Trade Fairs India & MEX Exhibitions",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "annual",
+    "website": "https://www.gartexindia.com/",
+    "sourceUrl": "https://www.gartexindia.com/",
+    "status": "confirmed",
+    "exhibitors": 150,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "India International Cargo Show Delhi 2027",
+    "startDate": "2027-06-02",
+    "endDate": "2027-06-04",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Logistics & material handling"
+    ],
+    "frequency": "other",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "India Warehousing Show 2027",
+    "startDate": "2027-06-24",
+    "endDate": "2027-06-26",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "India Warehousing Show",
+    "sectors": [
+      "Logistics & material handling"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiawarehousingshow.com/",
+    "sourceUrl": "https://www.indiawarehousingshow.com/",
+    "status": "confirmed",
+    "exhibitors": 300,
+    "notes": "Dates on organiser site; 16th edition."
+  },
+  {
+    "name": "Garment Technology Expo Coimbatore 2027",
+    "startDate": "2027-06-24",
+    "endDate": "2027-06-26",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "venue": "CODISSIA Trade Fair Complex",
+    "organiser": "Garment Technology Expo",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "other",
+    "website": "https://www.garmenttechnologyexpo.com/",
+    "sourceUrl": "https://www.garmenttechnologyexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 42nd edition."
+  },
+  {
+    "name": "Toy Biz International 2027",
+    "startDate": "2027-07-03",
+    "endDate": "2027-07-06",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Toy Association of India",
+    "sectors": [
+      "Toys & consumer goods"
+    ],
+    "frequency": "annual",
+    "website": "https://tai-india.org/",
+    "sourceUrl": "https://tai-india.org/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 18th edition."
+  },
+  {
+    "name": "HGH India 2027",
+    "startDate": "2027-07-06",
+    "endDate": "2027-07-09",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO), Goregaon",
+    "organiser": "HGH India",
+    "sectors": [
+      "Toys & consumer goods",
+      "Textiles & apparel"
+    ],
+    "frequency": "annual",
+    "website": "https://www.hghindia.com/",
+    "sourceUrl": "https://www.fibre2fashion.com/trade-fairs/20th-edition-hgh-india-2027-66964",
+    "status": "listed",
+    "exhibitors": null,
+    "notes": "Dates from fibre2fashion; official site names the 2027 edition without dates."
+  },
+  {
+    "name": "Gifts World Expo Delhi 2027",
+    "startDate": "2027-07-29",
+    "endDate": "2027-07-31",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "MEX Exhibitions Pvt Ltd",
+    "sectors": [
+      "Toys & consumer goods"
+    ],
+    "frequency": "annual",
+    "website": "https://www.giftsworldexpo.com/del/",
+    "sourceUrl": "https://www.giftsworldexpo.com/del/",
+    "status": "confirmed",
+    "exhibitors": 925,
+    "notes": "Dates on organiser site and Bharat Mandapam calendar."
+  },
+  {
+    "name": "IIJS Bharat Premiere 2027",
+    "startDate": "2027-08-04",
+    "endDate": "2027-08-09",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Jio World Convention Centre and Bombay Exhibition Centre",
+    "organiser": "Gem & Jewellery Export Promotion Council (GJEPC)",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "annual",
+    "website": "https://gjepc.org/iijs-premiere/",
+    "sourceUrl": "https://gjepc.org/iijs-premiere/show-dates-from-2026-2030.php",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on GJEPC site: JWCC 4-8 Aug, BEC 5-9 Aug."
+  },
+  {
+    "name": "India International Footwear Fair (IIFF) 2027",
+    "startDate": "2027-08-05",
+    "endDate": "2027-08-07",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "India Trade Promotion Organisation (ITPO)",
+    "sectors": [
+      "Leather & footwear"
+    ],
+    "frequency": "annual",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Show dates on ITPO venue calendar; 11th edition."
+  },
+  {
+    "name": "Gartex Texprocess India Delhi 2027",
+    "startDate": "2027-08-05",
+    "endDate": "2027-08-07",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Messe Frankfurt Trade Fairs India & MEX Exhibitions",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "annual",
+    "website": "https://www.gartexindia.com/",
+    "sourceUrl": "https://www.gartexindia.com/",
+    "status": "confirmed",
+    "exhibitors": 200,
+    "notes": "Dates on organiser site and Bharat Mandapam calendar."
+  },
+  {
+    "name": "INDEXPLUS Delhi 2027",
+    "startDate": "2027-08-06",
+    "endDate": "2027-08-08",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "NürnbergMesse India",
+    "sectors": [
+      "Furniture & wood"
+    ],
+    "frequency": "other",
+    "website": "https://www.nm-india.com/events-calendar",
+    "sourceUrl": "https://www.nm-india.com/events-calendar",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser events calendar."
+  },
+  {
+    "name": "Gifts World Expo Bengaluru 2027",
+    "startDate": "2027-08-25",
+    "endDate": "2027-08-27",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Tripura Vasini, Palace Grounds",
+    "organiser": "MEX Exhibitions Pvt Ltd",
+    "sectors": [
+      "Toys & consumer goods"
+    ],
+    "frequency": "annual",
+    "website": "https://www.giftsworldexpo.com/blr/",
+    "sourceUrl": "https://www.giftsworldexpo.com/blr/",
+    "status": "confirmed",
+    "exhibitors": 250,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Footwear India Expo (August) 2027",
+    "startDate": "2027-08-27",
+    "endDate": "2027-08-29",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Leather & footwear"
+    ],
+    "frequency": "other",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "KolkataWood 2027",
+    "startDate": "2027-09-10",
+    "endDate": "2027-09-12",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "venue": "Biswa Bangla Mela Prangan",
+    "organiser": "NürnbergMesse India",
+    "sectors": [
+      "Furniture & wood"
+    ],
+    "frequency": "other",
+    "website": "https://www.nm-india.com/events-calendar",
+    "sourceUrl": "https://www.nm-india.com/events-calendar",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser events calendar."
+  },
+  {
+    "name": "Delhi Jewellery & Gem Fair (DJGF) 2027",
+    "startDate": "2027-09-18",
+    "endDate": "2027-09-20",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Not stated on venue calendar",
+    "sectors": [
+      "Gems & jewellery"
+    ],
+    "frequency": "other",
+    "website": "https://www.itpo.gov.in/itpo-event",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "World Food India 2027",
+    "startDate": "2027-09-27",
+    "endDate": "2027-09-30",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Ministry of Food Processing Industries",
+    "sectors": [
+      "Food processing & dairy"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.mofpi.gov.in/",
+    "sourceUrl": "https://www.itpo.gov.in/itpo-event",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on Bharat Mandapam (ITPO) venue calendar."
+  },
+  {
+    "name": "IHGF Delhi Fair Autumn 2027",
+    "startDate": "2027-10-15",
+    "endDate": "2027-10-19",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Export Promotion Council for Handicrafts (EPCH)",
+    "sectors": [
+      "Toys & consumer goods",
+      "Furniture & wood",
+      "Textiles & apparel"
+    ],
+    "frequency": "other",
+    "website": "https://www.ihgfdelhifair.in/",
+    "sourceUrl": "https://epch.in/ihgf-delhi-fair-spring-autumn-edition-dates-year-2027-2030",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on EPCH site; venue not stated there, assumed as usual."
+  },
+  {
+    "name": "EXCON 2027",
+    "startDate": "2027-12-07",
+    "endDate": "2027-12-11",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "organiser": "Confederation of Indian Industry (CII)",
+    "sectors": [
+      "Construction & building materials"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.excon.in/",
+    "sourceUrl": "https://www.excon.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; construction equipment."
+  },
+  {
+    "name": "Techtextil India 2027",
+    "startDate": "2027-12-08",
+    "endDate": "2027-12-10",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Venue not yet announced",
+    "organiser": "Messe Frankfurt Trade Fairs India",
+    "sectors": [
+      "Textiles & apparel"
+    ],
+    "frequency": "biennial",
+    "website": "https://techtextil-india.in.messefrankfurt.com/mumbai/en.html",
+    "sourceUrl": "https://techtextil-india.in.messefrankfurt.com/mumbai/en.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; Mumbai venue not named yet."
+  }
+]

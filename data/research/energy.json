@@ -1,0 +1,550 @@
+[
+  {
+    "name": "Windergy India 2026",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-09",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "IWTMA & PDA Ventures",
+    "sectors": [
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://windergy.in/",
+    "sourceUrl": "https://windergy.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 8th edition."
+  },
+  {
+    "name": "Water India Expo 2026",
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-10",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "Hyderabad International Exhibition Centre (as named by organiser)",
+    "organiser": "Water India",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://www.waterindia.net/",
+    "sourceUrl": "https://www.waterindia.net/",
+    "status": "confirmed",
+    "exhibitors": 200,
+    "notes": "Dates on organiser site; exhibitor figure is the organiser's expected count."
+  },
+  {
+    "name": "Renewable Energy India Expo 2026",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-24",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Informa Markets",
+    "sectors": [
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.renewableenergyindiaexpo.com/",
+    "sourceUrl": "https://www.renewableenergyindiaexpo.com/",
+    "status": "confirmed",
+    "exhibitors": 1035,
+    "notes": "Dates on organiser site; 1,035 brands in 2025."
+  },
+  {
+    "name": "India Cold Chain Show 2026",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-24",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "RX India",
+    "sectors": [
+      "HVAC & refrigeration",
+      "Logistics & material handling"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiacoldchainshow.com/",
+    "sourceUrl": "https://www.indiacoldchainshow.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "IGHA-Hyvolution India 2026",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-18",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "GH2 India & GL events",
+    "sectors": [
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.igha-hyvolution.com/",
+    "sourceUrl": "https://www.igha-hyvolution.com/",
+    "status": "confirmed",
+    "exhibitors": 150,
+    "notes": "Dates on organiser site; green hydrogen expo, 150+ exhibitors expected."
+  },
+  {
+    "name": "REFCOLD India 2026",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-21",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "Agriculture College Ground",
+    "organiser": "ISHRAE",
+    "sectors": [
+      "HVAC & refrigeration"
+    ],
+    "frequency": "annual",
+    "website": "https://www.refcold.in/",
+    "sourceUrl": "https://www.refcold.in/",
+    "status": "confirmed",
+    "exhibitors": 200,
+    "notes": "Dates on organiser site; 200+ exhibitors."
+  },
+  {
+    "name": "wire India 2026",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-02",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.wire-india.com/",
+    "sourceUrl": "https://iwma.org/event/wire-india-2026/",
+    "status": "confirmed",
+    "exhibitors": 300,
+    "notes": "Dates on IWMA association page; co-located with Tube India and METEC India; 300 exhibitors in 2024."
+  },
+  {
+    "name": "IPVS 2026",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-04",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Orbit Exhibitions",
+    "sectors": [
+      "General engineering",
+      "Water & environment"
+    ],
+    "frequency": "other",
+    "website": "https://ipvs.in/",
+    "sourceUrl": "https://orbitexhibitions.com/upcoming-exhibitions/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; HITEX venue per event listings."
+  },
+  {
+    "name": "Light + LED Expo India 2026 (Delhi)",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-19",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Messe Frankfurt Trade Fairs India",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "annual",
+    "website": "http://lightindia-ledexpo.com/",
+    "sourceUrl": "http://lightindia-ledexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "32nd Indian Plumbing Conference & Exhibition 2026",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-19",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "Indian Plumbing Association",
+    "sectors": [
+      "Water & environment",
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indianplumbingconference.com/2026/",
+    "sourceUrl": "https://www.indianplumbingconference.com/2026/",
+    "status": "confirmed",
+    "exhibitors": 150,
+    "notes": "Dates on organiser site; covers pumps, valves, pipes and water treatment."
+  },
+  {
+    "name": "India Energy Week 2027",
+    "startDate": "2027-01-28",
+    "endDate": "2027-01-31",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "venue": "New Town Convention Centre",
+    "organiser": "FIPI (with Informa), under MoPNG",
+    "sectors": [
+      "Electrical & power",
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiaenergyweek.com/",
+    "sourceUrl": "https://www.indiaenergyweek.com/",
+    "status": "confirmed",
+    "exhibitors": 700,
+    "notes": "Dates on organiser site; oil, gas and energy show; 700+ exhibitors in 2026."
+  },
+  {
+    "name": "EverythingAboutWater Expo Hyderabad 2027",
+    "startDate": "2027-01-29",
+    "endDate": "2027-01-31",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "EverythingAboutWater (Earth Water Foundation)",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "other",
+    "website": "https://eawaterexpo.com/",
+    "sourceUrl": "https://eawaterexpo.com/",
+    "status": "confirmed",
+    "exhibitors": 159,
+    "notes": "Dates on organiser site; 159 exhibitors in 2026."
+  },
+  {
+    "name": "ELECXPO Kochi 2027",
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-07",
+    "city": "Kochi",
+    "state": "Kerala",
+    "venue": "Adlux Convention Centre",
+    "organiser": "Smart Expos & Fairs (India)",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "other",
+    "website": "https://elecxpo.com/",
+    "sourceUrl": "https://elecxpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; 11th ELECXPO edition."
+  },
+  {
+    "name": "ACREX India 2027",
+    "startDate": "2027-02-11",
+    "endDate": "2027-02-13",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "ISHRAE",
+    "sectors": [
+      "HVAC & refrigeration"
+    ],
+    "frequency": "annual",
+    "website": "https://acrex.in/",
+    "sourceUrl": "https://acrex.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "ELECRAMA 2027",
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-24",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "IEEMA",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "biennial",
+    "website": "https://elecrama.com/",
+    "sourceUrl": "https://ieema.org/exhibitions/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on IEEMA and ELECRAMA sites."
+  },
+  {
+    "name": "Water Today's Water Expo 2027",
+    "startDate": "2027-02-25",
+    "endDate": "2027-02-27",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "Water Today",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://www.waterexpo.biz/",
+    "sourceUrl": "https://10times.com/water-expo-chennai",
+    "status": "listed",
+    "exhibitors": 250,
+    "notes": "Organiser site names the 20th edition at Chennai Trade Centre but shows no dates; dates from 10times."
+  },
+  {
+    "name": "Oil Gas & Power World Expo 2027",
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-05",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Chemtech Foundation (Jasubhai Group)",
+    "sectors": [
+      "Electrical & power",
+      "Renewable energy"
+    ],
+    "frequency": "other",
+    "website": "https://chemtech-online.com/ogp/",
+    "sourceUrl": "https://chemtech-online.com/ogp/",
+    "status": "confirmed",
+    "exhibitors": 250,
+    "notes": "Dates on organiser site; oil, gas, power and green hydrogen."
+  },
+  {
+    "name": "The smarter E India 2027 (Intersolar India)",
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-11",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "venue": "Helipad Exhibition Centre",
+    "organiser": "The smarter E India",
+    "sectors": [
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.thesmartere.in/home",
+    "sourceUrl": "https://www.thesmartere.in/exhibition-quick-facts",
+    "status": "confirmed",
+    "exhibitors": 400,
+    "notes": "Official site shows 9-11 Mar 2027; some directories still list 24-26 Feb."
+  },
+  {
+    "name": "Water India 2027",
+    "startDate": "2027-03-23",
+    "endDate": "2027-03-25",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam",
+    "organiser": "Exhibitions India Group",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://www.eventseye.com/fairs/f-water-india-27313-1.html",
+    "sourceUrl": "https://www.eventseye.com/fairs/f-water-india-27313-1.html",
+    "status": "listed",
+    "exhibitors": null,
+    "notes": "Dates from EventsEye; same dates and venue as Smart Future Cities India on its official site."
+  },
+  {
+    "name": "India Smart Utility Week 2027",
+    "startDate": "2027-04-07",
+    "endDate": "2027-04-09",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Venue not yet announced",
+    "organiser": "India Smart Grid Forum",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "annual",
+    "website": "https://www.isuw.in/",
+    "sourceUrl": "https://www.isuw.in/",
+    "status": "confirmed",
+    "exhibitors": 24,
+    "notes": "Organiser site gives conference and exhibition 7-9 Apr 2027; mostly a conference, with 24 exhibitors in 2026."
+  },
+  {
+    "name": "IFAT Delhi 2027",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-23",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam",
+    "organiser": "Messe München India",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://ifat-delhi.com/",
+    "sourceUrl": "https://ifat-delhi.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "RenewX 2027",
+    "startDate": "2027-04-22",
+    "endDate": "2027-04-24",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "Informa Markets",
+    "sectors": [
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.renewx.in/",
+    "sourceUrl": "https://www.renewx.in/",
+    "status": "confirmed",
+    "exhibitors": 150,
+    "notes": "Dates on organiser site; 150+ exhibitors in 2026."
+  },
+  {
+    "name": "Light + LED Expo India 2027 (Mumbai)",
+    "startDate": "2027-05-06",
+    "endDate": "2027-05-08",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Frankfurt Trade Fairs India",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "annual",
+    "website": "http://lightindia-ledexpo.com/",
+    "sourceUrl": "http://lightindia-ledexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Power & Utilities India 2027",
+    "startDate": "2027-05-19",
+    "endDate": "2027-05-21",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Jio World Convention Centre",
+    "organiser": "dmg events",
+    "sectors": [
+      "Electrical & power",
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://www.powerandutilitiesindia.com/",
+    "sourceUrl": "https://www.powerandutilitiesindia.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Oil & Gas Connect Expo 2027",
+    "startDate": "2027-05-27",
+    "endDate": "2027-05-29",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "venue": "Auto Cluster Exhibition Centre, Pimpri-Chinchwad",
+    "organiser": "E2E Ventures",
+    "sectors": [
+      "Electrical & power",
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://gasconnectexpo.com/",
+    "sourceUrl": "https://gasconnectexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; natural gas, LNG and hydrogen equipment."
+  },
+  {
+    "name": "GREENS Global Recycling Expo 2027",
+    "startDate": "2027-06-10",
+    "endDate": "2027-06-12",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "venue": "Helipad Exhibition Centre",
+    "organiser": "Salt Alliance with GCCI",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://greensexpo.com/",
+    "sourceUrl": "https://greensexpo.com/",
+    "status": "confirmed",
+    "exhibitors": 22,
+    "notes": "Dates on organiser site; waste and recycling."
+  },
+  {
+    "name": "Bharat Electricity, POWERGEN India & Indian Utility Week 2027",
+    "startDate": "2027-09-01",
+    "endDate": "2027-09-03",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "POWERGEN India (organiser not confirmed)",
+    "sectors": [
+      "Electrical & power",
+      "Renewable energy"
+    ],
+    "frequency": "annual",
+    "website": "https://www.powergen-india.com/",
+    "sourceUrl": "https://www.trade4asia.com/powergen-india/",
+    "status": "listed",
+    "exhibitors": 250,
+    "notes": "Official site still shows the 2026 edition; 2027 dates from Trade4Asia; organiser name not confirmed on a fetched page."
+  },
+  {
+    "name": "ELECXPO Chennai 2027",
+    "startDate": "2027-09-10",
+    "endDate": "2027-09-12",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "Smart Expos & Fairs (India)",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "other",
+    "website": "https://elecxpo.com/",
+    "sourceUrl": "https://elecxpo.com/",
+    "status": "confirmed",
+    "exhibitors": 250,
+    "notes": "Official site shows 10-12 Sep 2027; some listings say December."
+  },
+  {
+    "name": "IFAT India 2027",
+    "startDate": "2027-09-29",
+    "endDate": "2027-10-01",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe München India",
+    "sectors": [
+      "Water & environment"
+    ],
+    "frequency": "annual",
+    "website": "https://ifat-india.com/",
+    "sourceUrl": "https://ifat-india.com/",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; 500+ exhibitors in 2026."
+  },
+  {
+    "name": "Cable & Wire Fair 2027",
+    "startDate": "2027-12-09",
+    "endDate": "2027-12-11",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Messe Stuttgart",
+    "sectors": [
+      "Electrical & power"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.cablewirefair.com/",
+    "sourceUrl": "https://www.cablewirefair.com/",
+    "status": "confirmed",
+    "exhibitors": 600,
+    "notes": "Dates on organiser site; 7th edition."
+  }
+]

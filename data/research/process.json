@@ -1,0 +1,606 @@
+[
+  {
+    "name": "PAP Expo 2026",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-03",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Papyrus Expo LLP",
+    "sectors": [
+      "Paper & glass"
+    ],
+    "frequency": "annual",
+    "website": "https://papexpo.in/",
+    "sourceUrl": "https://hitex.co.in/events/pap-expo-2026-1/index.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on HITEX venue calendar."
+  },
+  {
+    "name": "Medicall New Delhi 2026 (48th edition)",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": null,
+    "organiser": "Medicall",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "other",
+    "website": "https://www.medicall.in/",
+    "sourceUrl": "https://www.medicall.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; venue not stated."
+  },
+  {
+    "name": "India Paper Expo 2026",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-16",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "RX India",
+    "sectors": [
+      "Paper & glass",
+      "Packaging & printing"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiapaperexpo.com/",
+    "sourceUrl": "https://www.indiapaperexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "India Folding Carton 2026",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-16",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "RX India",
+    "sectors": [
+      "Packaging & printing"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiafoldingcarton.com/",
+    "sourceUrl": "https://www.indiafoldingcarton.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; co-located with India Paper Expo."
+  },
+  {
+    "name": "IndiaCorr Expo 2026",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-16",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "RX India",
+    "sectors": [
+      "Packaging & printing",
+      "Paper & glass"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indiacorrexpo.com/",
+    "sourceUrl": "https://www.indiacorrexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; corrugated packaging show co-located with India Paper Expo."
+  },
+  {
+    "name": "India Chem 2026",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-24",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Department of Chemicals & Petrochemicals (GoI) with FICCI",
+    "sectors": [
+      "Chemicals & coatings"
+    ],
+    "frequency": "biennial",
+    "website": "https://indiachem.in/",
+    "sourceUrl": "https://indiachem.in/",
+    "status": "confirmed",
+    "exhibitors": 172,
+    "notes": "Dates on organiser site; exhibitor count from site ticker."
+  },
+  {
+    "name": "LOUPE India 2026 (formerly Labelexpo India)",
+    "startDate": "2026-10-29",
+    "endDate": "2026-11-01",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Tarsus Group (Labelexpo)",
+    "sectors": [
+      "Packaging & printing"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.loupe-india.com/",
+    "sourceUrl": "https://tof-visprom.loupe-india.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site and IEML calendar."
+  },
+  {
+    "name": "CORCON 2026",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-31",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "AMPP India Chapter",
+    "sectors": [
+      "Chemicals & coatings"
+    ],
+    "frequency": "annual",
+    "website": "https://corcon.org/",
+    "sourceUrl": "https://indiaexpomart.com/events/corcon-2026/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Corrosion and coatings conference with exhibition; dates on IEML venue calendar."
+  },
+  {
+    "name": "CPHI India 2026",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-25",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Informa Markets in India",
+    "sectors": [
+      "Pharma & medical devices",
+      "Chemicals & coatings"
+    ],
+    "frequency": "annual",
+    "website": "https://www.cphi.com/india/en/home.html",
+    "sourceUrl": "https://www.cphi.com/india/en/home.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; ingredients show, runs alongside PMEC India."
+  },
+  {
+    "name": "PMEC India 2026",
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-26",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Informa Markets in India",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "annual",
+    "website": "https://www.cphi.com/india/en/home.html",
+    "sourceUrl": "https://www.cphi.com/india/en/home.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site and IEML calendar; pharma machinery show."
+  },
+  {
+    "name": "Paperex South India 2026",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-05",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "Indian Agro & Recycled Paper Mills Association (IARPMA)",
+    "sectors": [
+      "Paper & glass"
+    ],
+    "frequency": "biennial",
+    "website": "http://www.paperex-southindia.in/",
+    "sourceUrl": "http://www.paperex-southindia.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Medicall Mumbai 2026 (49th edition)",
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-10",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": null,
+    "organiser": "Medicall",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "other",
+    "website": "https://www.medicall.in/",
+    "sourceUrl": "https://www.medicall.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; venue not named (Goregaon 400063 address)."
+  },
+  {
+    "name": "GlobalChemShow 2026",
+    "startDate": "2026-12-14",
+    "endDate": "2026-12-15",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "GlobalChemShow",
+    "sectors": [
+      "Chemicals & coatings",
+      "Pharma & medical devices"
+    ],
+    "frequency": "annual",
+    "website": "https://www.globalchemshow.com/",
+    "sourceUrl": "https://www.globalchemshow.com/venue_timing.html",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; organiser company name not shown on page."
+  },
+  {
+    "name": "India MedTech Expo 2027",
+    "startDate": "2027-01-14",
+    "endDate": "2027-01-16",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Export Promotion Council for Medical Devices (EPCMD) with Department of Pharmaceuticals",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "other",
+    "website": "https://indiamedtechexpo.in/",
+    "sourceUrl": "https://indiaexpomart.com/events/india-medtech-expo-2027/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on IEML venue calendar."
+  },
+  {
+    "name": "Plastivision India 2027",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-25",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "All India Plastics Manufacturers' Association (AIPMA)",
+    "sectors": [
+      "Plastics & rubber"
+    ],
+    "frequency": "other",
+    "website": "https://www.plastivision.org/",
+    "sourceUrl": "https://www.plastivision.org/",
+    "status": "confirmed",
+    "exhibitors": 1238,
+    "notes": "Dates on organiser site; exhibitor count is 2023 edition."
+  },
+  {
+    "name": "PrintPack India 2027",
+    "startDate": "2027-01-30",
+    "endDate": "2027-02-03",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Indian Printing Packaging & Allied Machinery Manufacturers' Association (IPAMA)",
+    "sectors": [
+      "Packaging & printing"
+    ],
+    "frequency": "biennial",
+    "website": "https://printpackipama.com/",
+    "sourceUrl": "https://printpackipama.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; space reported sold out."
+  },
+  {
+    "name": "Medicall Kolkata 2027 (50th edition)",
+    "startDate": "2027-02-19",
+    "endDate": "2027-02-21",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "venue": null,
+    "organiser": "Medicall",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "other",
+    "website": "https://www.medicall.in/",
+    "sourceUrl": "https://www.medicall.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; venue not stated."
+  },
+  {
+    "name": "Oil Gas & Power World Expo 2027",
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-05",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Chemtech Foundation (Jasubhai Group)",
+    "sectors": [
+      "Chemicals & coatings",
+      "Electrical & power"
+    ],
+    "frequency": "biennial",
+    "website": "https://chemtech-online.com/ogp/",
+    "sourceUrl": "https://chemtech-online.com/ogp/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; includes refining, petrochemicals and coatings shows."
+  },
+  {
+    "name": "Ceramics India 2027 (Indian Ceramics Asia)",
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-05",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "venue": "Helipad Exhibition Centre",
+    "organiser": "Messe Muenchen India and Unifair Exhibitions",
+    "sectors": [
+      "Paper & glass",
+      "Construction & building materials"
+    ],
+    "frequency": "annual",
+    "website": "https://www.indian-ceramics.com/",
+    "sourceUrl": "https://www.indian-ceramics.com/",
+    "status": "confirmed",
+    "exhibitors": 300,
+    "notes": "Dates on organiser site; exhibitor count is last edition."
+  },
+  {
+    "name": "India Pharma Expo 2027",
+    "startDate": "2027-03-11",
+    "endDate": "2027-03-13",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Elets Technomedia",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "other",
+    "website": "https://indiapharmaexpo.com/",
+    "sourceUrl": "https://indiapharmaexpo.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "PaintIndia 2027",
+    "startDate": "2027-03-12",
+    "endDate": "2027-03-13",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Colour Publications",
+    "sectors": [
+      "Chemicals & coatings"
+    ],
+    "frequency": "annual",
+    "website": "https://paintindia.in/",
+    "sourceUrl": "https://paintindia.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Medical Fair India 2027",
+    "startDate": "2027-03-13",
+    "endDate": "2027-03-15",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "annual",
+    "website": "https://www.medicalfair-india.com/",
+    "sourceUrl": "https://www.medicalfair-india.com/",
+    "status": "confirmed",
+    "exhibitors": 500,
+    "notes": "Dates on organiser site; count is exhibiting brands in 2026."
+  },
+  {
+    "name": "Medicall Hyderabad 2027 (51st edition)",
+    "startDate": "2027-04-02",
+    "endDate": "2027-04-04",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": null,
+    "organiser": "Medicall",
+    "sectors": [
+      "Pharma & medical devices"
+    ],
+    "frequency": "other",
+    "website": "https://www.medicall.in/",
+    "sourceUrl": "https://www.medicall.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; venue not stated."
+  },
+  {
+    "name": "analytica Lab India Mumbai 2027",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-23",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Jio World Convention Centre",
+    "organiser": "Messe Muenchen India",
+    "sectors": [
+      "Pharma & medical devices",
+      "Chemicals & coatings"
+    ],
+    "frequency": "annual",
+    "website": "https://analyticalabindia.com/en/",
+    "sourceUrl": "https://analyticalabindia.com/en/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; formerly analytica Anacon India & India Lab Expo."
+  },
+  {
+    "name": "RUBEXPO 2027",
+    "startDate": "2027-05-07",
+    "endDate": "2027-05-09",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Chennai Trade Centre",
+    "organiser": "Smart Expos & Fairs (India)",
+    "sectors": [
+      "Plastics & rubber"
+    ],
+    "frequency": "annual",
+    "website": "https://www.rubexpo.com/",
+    "sourceUrl": "https://www.rubexpo.com/",
+    "status": "confirmed",
+    "exhibitors": 150,
+    "notes": "Dates on organiser site; count is 2025 edition."
+  },
+  {
+    "name": "PLASTASIA 2027",
+    "startDate": "2027-05-20",
+    "endDate": "2027-05-23",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "TEPL",
+    "sectors": [
+      "Plastics & rubber"
+    ],
+    "frequency": "other",
+    "website": "https://www.plastasia.in/",
+    "sourceUrl": "https://www.plastasia.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "PackPlus 2027",
+    "startDate": "2027-07-22",
+    "endDate": "2027-07-24",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Bharat Mandapam (Pragati Maidan)",
+    "organiser": "RX India",
+    "sectors": [
+      "Packaging & printing"
+    ],
+    "frequency": "annual",
+    "website": "https://www.packplus.in/",
+    "sourceUrl": "https://www.packplus.in/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Bharat Packaging Expo 2027",
+    "startDate": "2027-08-30",
+    "endDate": "2027-09-02",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "venue": "India Expo Centre & Mart",
+    "organiser": "Indian Institute of Packaging (IIP) and IEML",
+    "sectors": [
+      "Packaging & printing"
+    ],
+    "frequency": "other",
+    "website": "https://bharatpackagingexpo.com/",
+    "sourceUrl": "https://indiaexpomart.com/events/bharat-packaging-expo-2027/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on IEML venue calendar."
+  },
+  {
+    "name": "Plexpo India 2027",
+    "startDate": "2027-09-17",
+    "endDate": "2027-09-20",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "venue": "Helipad Exhibition Centre",
+    "organiser": "Gujarat State Plastic Manufacturers Association (GSPMA)",
+    "sectors": [
+      "Plastics & rubber",
+      "Packaging & printing"
+    ],
+    "frequency": "other",
+    "website": "https://www.plexpoindia.org/",
+    "sourceUrl": "https://www.plexpoindia.org/",
+    "status": "confirmed",
+    "exhibitors": 350,
+    "notes": "Dates on organiser site; count is 2024 edition."
+  },
+  {
+    "name": "glasspex INDIA 2027",
+    "startDate": "2027-09-23",
+    "endDate": "2027-09-25",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Paper & glass"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.glasspex.com/",
+    "sourceUrl": "https://www.glasspex.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; glass production show."
+  },
+  {
+    "name": "glasspro INDIA 2027",
+    "startDate": "2027-09-23",
+    "endDate": "2027-09-25",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "venue": "Bombay Exhibition Centre (NESCO)",
+    "organiser": "Messe Düsseldorf India",
+    "sectors": [
+      "Paper & glass",
+      "Construction & building materials"
+    ],
+    "frequency": "biennial",
+    "website": "https://www.glassproindia.com/",
+    "sourceUrl": "https://www.glassproindia.com/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site; glass processing show co-located with glasspex."
+  },
+  {
+    "name": "analytica Lab India Hyderabad 2027",
+    "startDate": "2027-09-23",
+    "endDate": "2027-09-25",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "venue": "HITEX Exhibition Centre",
+    "organiser": "Messe Muenchen India",
+    "sectors": [
+      "Pharma & medical devices",
+      "Chemicals & coatings"
+    ],
+    "frequency": "annual",
+    "website": "https://analyticalabindia.com/en/",
+    "sourceUrl": "https://analyticalabindia.com/en/",
+    "status": "confirmed",
+    "exhibitors": null,
+    "notes": "Dates on organiser site."
+  },
+  {
+    "name": "Paperex 2027",
+    "startDate": "2027-12-01",
+    "endDate": "2027-12-04",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "venue": "Yashobhoomi (IICC), Dwarka",
+    "organiser": "Informa Markets in India",
+    "sectors": [
+      "Paper & glass"
+    ],
+    "frequency": "biennial",
+    "website": "https://india.paperex-expo.com/",
+    "sourceUrl": "https://india.paperex-expo.com/",
+    "status": "confirmed",
+    "exhibitors": 800,
+    "notes": "Dates on organiser site; count is 2025 edition."
+  }
+]
